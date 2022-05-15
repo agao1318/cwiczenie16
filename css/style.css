@@ -1,0 +1,23 @@
+.main{
+    width: 150px; height: 150px; background-color: #fea500; 
+    margin-bottom: 10px; margin-left: 30px;
+}
+.one{
+    width: 150px; height: 150px; background-color: #fea500; margin-bottom: 10px; margin-left: 30px;
+}
+.two{
+    width: 150px; height: 150px; background-color: #fea500; margin-bottom: 10px; margin-left: 30px;
+}
+.three{
+    width: 150px; height: 150px; background-color: #fea500;  margin-bottom: 10px; margin-left: 30px;
+}
+.body{
+background-color:#808080 ;width: 200px;
+}
+.class{
+    margin-top: 150px;
+}
+.name{
+    color: white;
+    margin-left: 10px;
+}
